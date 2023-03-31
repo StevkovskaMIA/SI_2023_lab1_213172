@@ -1,0 +1,51 @@
+commit b7e99c4f365e1f928b25d82f449993f795c2b3f1 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Mia Stevkovska <mia.stevkovska@yahoo.com>
+Date:   Fri Mar 31 13:45:10 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit f88647f3cb7c71ee4aac9b502a2abff9bf16244f
+Merge: 9f95261 98ad9a7
+Author: Mia Stevkovska <mia.stevkovska@yahoo.com>
+Date:   Fri Mar 31 14:20:15 2023 +0200
+
+    Merge branch 'bug1'
+
+commit b7e99c4f365e1f928b25d82f449993f795c2b3f1 (HEAD -> master, origin/master,
+origin/bug3, bug3)
+Author: Mia Stevkovska <mia.stevkovska@yahoo.com>
+Date:   Fri Mar 31 13:45:10 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit f88647f3cb7c71ee4aac9b502a2abff9bf16244f
+Merge: 9f95261 98ad9a7
+Author: Mia Stevkovska <mia.stevkovska@yahoo.com>
+Date:   Fri Mar 31 14:20:15 2023 +0200
+
+    Merge branch 'bug1'
+
+commit 98ad9a7021b7ddfa1cc14648e1a904206ab5e9e5 (origin/bug2, bug2)
+Author: Mia Stevkovska <mia.stevkovska@yahoo.com>
+Date:   Fri Mar 31 13:40:07 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 9f9526172d14c9fb53bd5b7f9eb91e44a5b93715 (origin/bug1, bug1)
+Author: Mia Stevkovska <mia.stevkovska@yahoo.com>
+Date:   Fri Mar 31 13:37:24 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 023e158c22f0b5482a75dc20e639847090ae8de3
+Author: DjinaStevkovska <stevkovskadjina@yahoo.com>
+Date:   Fri Mar 31 12:40:38 2023 +0200
+
+    Add java class
+
+commit a4115f04e22cc3aecb247274488c45f0f54fb0e7
+Author: DjinaStevkovska <stevkovskadjina@yahoo.com>
+Date:   Fri Mar 31 12:37:04 2023 +0200
+
+    Initial commit
+(END)
